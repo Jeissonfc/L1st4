@@ -1,47 +1,47 @@
 #EXTM3U
 
 
-#EXTINF -1 , NICK_JR
+#EXTINF: -1 , NICK_JR
 
 https://tv.teleclub.xyz//live/ABRIL_01/NICK_JR/index.m3u8
 
 
-EXTINF -1 , TOONCAST
+#EXTINF: -1 , TOONCAST
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/TOONCAST/index.m3u8
 
 
-EXTINF -1 , BITME
+#EXTINF: -1 , BITME
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/BITME/index.m3u8
 
-EXTINF -1 , CARTOONITO
+#EXTINF: -1 , CARTOONITO
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/CARTOONITO/index.m3u8
 
 
-EXTINF -1 , DISCOVERY_KIDS
+#EXTINF: -1 , DISCOVERY_KIDS
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/DISCOVERY_KIDS/index.m3u8
 
 
-EXTINF -1 , BABYTV
+#EXTINF: -1 , BABYTV
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/BABYTV/index.m3u8
 
-EXTINF -1 , GOLDEN_EDGE
+#EXTINF: -1 , GOLDEN_EDGE
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/GOLDEN_EDGE/index.m3u8
 
-EXTINF -1 , HBO_PLUS
+#EXTINF: -1 , HBO_PLUS
 
 
 
@@ -49,26 +49,26 @@ EXTINF -1 , HBO_PLUS
 https://tv.teleclub.xyz//live/ABRIL_01/HBO_PLUS/index.m3u8
 
 
-EXTINF -1 , CINEMAX
+#EXTINF: -1 , CINEMAX
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/CINEMAX/index.m3u8
 
-EXTINF -1 , TNT_SERIES
+#EXTINF: -1 , TNT_SERIES
 
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/TNT_SERIES/index.m3u8
 
-EXTINF -1 , DEPELICULA
+#EXTINF: -1 , DEPELICULA
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/DEPELICULA/index.m3u8
 
-EXTINF -1 , FX
+#EXTINF: -1 , FX
 
 
 
@@ -76,13 +76,13 @@ EXTINF -1 , FX
 https://tv.teleclub.xyz//live/ABRIL_01/FX/index.m3u8
 
 
-EXTINF -1 , STUDIO_UNIVERSAL
+#EXTINF: -1 , STUDIO_UNIVERSAL
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/STUDIO_UNIVERSAL/index.m3u8
 
-EXTINF -1 , PARAMOUNT
+#EXTINF: -1 , PARAMOUNT
 
 
 
@@ -90,13 +90,13 @@ EXTINF -1 , PARAMOUNT
 https://tv.teleclub.xyz//live/ABRIL_01/PARAMOUNT/index.m3u8
 
 
-EXTINF -1 , AXN
+#EXTINF: -1 , AXN
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/AXN/index.m3u8
 
-EXTINF -1 , WARNER
+#EXTINF: -1 , WARNER
 
 
 
@@ -106,20 +106,20 @@ https://tv.teleclub.xyz//live/ABRIL_01/WARNER/index.m3u8
 
 
 
-EXTINF -1 , STAR
+#EXTINF: -1 , STAR
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/STAR/index.m3u8
 
 
-EXTINF -1 , MTV
+#EXTINF: -1 , MTV
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/MTV/index.m3u8
 
 
-EXTINF -1 , MTV_HITS
+#EXTINF: -1 , MTV_HITS
 
 
 
@@ -127,40 +127,40 @@ https://tv.teleclub.xyz//live/ABRIL_01/MTV_HITS/index.m3u8
 
 
 
-EXTINF -1 , SPACE
+#EXTINF: -1 , SPACE
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/SPACE/index.m3u8
 
 
-EXTINF -1 , DISCOVERY_TURBO
+#EXTINF: -1 , DISCOVERY_TURBO
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/DISCOVERY_TURBO/index.m3u8
 
 
-EXTINF -1 , WWE
+#EXTINF: -1 , WWE
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_01/WWE/index.m3u8
 
 
-EXTINF -1 , FUTURAMA247
+#EXTINF: -1 , FUTURAMA247
 
 
 
 https://tv.teleclub.xyz//live/ABRIL_00/TW/FUTURAMA247/index.m3u8
 
 
-EXTINF -1 , CARTOON
+#EXTINF: -1 , CARTOON
 
 
 https://tv.teleclub.xyz//live/ABRIL_02/CARTOON/index.m3u8
 
 
-EXTINF -1 , TNT
+#EXTINF: -1 , TNT
 
 
 
@@ -168,7 +168,7 @@ https://tv.teleclub.xyz//live/ABRIL_02/TNT/index.m3u8
 
 
 
-EXTINF -1 , JETIX
+#EXTINF: -1 , JETIX
 
 
 https://tv.teleclub.xyz//live/ABRIL_00/JETIX/index.m3u8
